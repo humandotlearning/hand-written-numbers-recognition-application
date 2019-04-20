@@ -10,3 +10,5 @@ the neural network is trained in pytorch.
 
 # youtube sample video:
 https://www.youtube.com/watch?v=j3ucaYuNBvM
+
+![gif of mnist](https://media.giphy.com/media/LnjK1xBK4Rvh6PduAk/giphy.gif)
